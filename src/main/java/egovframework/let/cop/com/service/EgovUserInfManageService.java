@@ -85,3 +85,4 @@ public interface EgovUserInfManageService {
      */
     public List<UserInfVO> selectAllCmmntyUser(UserInfVO userVO) throws Exception;
 }
+// touched by feature/MECSITPF-175
