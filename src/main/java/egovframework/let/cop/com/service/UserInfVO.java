@@ -563,3 +563,4 @@ public class UserInfVO implements Serializable {
 	return ToStringBuilder.reflectionToString(this);
     }
 }
+// touched by feature/MECSITPF-178
