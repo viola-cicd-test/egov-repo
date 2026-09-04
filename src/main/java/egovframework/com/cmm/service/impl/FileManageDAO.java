@@ -180,3 +180,4 @@ public class FileManageDAO extends EgovComAbstractDAO {
 		return (List<FileVO>) list("FileManageDAO.selectImageFileList", vo);
 	}
 }
+// touched by feature/MECSITPF-146
