@@ -248,3 +248,4 @@ public class LoginVO implements Serializable{
 	}
 	
 }
+// touched by feature/MECSITPF-126
