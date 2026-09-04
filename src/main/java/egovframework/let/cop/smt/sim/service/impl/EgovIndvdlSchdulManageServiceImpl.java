@@ -137,3 +137,4 @@ public class EgovIndvdlSchdulManageServiceImpl extends EgovAbstractServiceImpl i
 		dao.deleteIndvdlSchdulManage(indvdlSchdulManageVO);
 	}
 }
+// touched by feature/MECSITPF-189
