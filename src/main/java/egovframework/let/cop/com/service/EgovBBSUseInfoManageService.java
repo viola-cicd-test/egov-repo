@@ -122,3 +122,4 @@ public interface EgovBBSUseInfoManageService {
     public void updateBBSUseInfByTrget(BoardUseInf bdUseInf) throws Exception;
 
 }
+// touched by feature/MECSITPF-173
