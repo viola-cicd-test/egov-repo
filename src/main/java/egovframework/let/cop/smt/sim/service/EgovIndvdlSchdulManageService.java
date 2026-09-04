@@ -100,4 +100,4 @@ public interface EgovIndvdlSchdulManageService {
 	 * @exception Exception Exception
 	 */
 	public void updateIndvdlSchdulManage(IndvdlSchdulManageVO indvdlSchdulManageVO) throws Exception;
-}
+}// touched by feature/MECSITPF-187
