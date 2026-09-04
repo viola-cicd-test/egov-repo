@@ -118,3 +118,4 @@ public class SessionVO implements Serializable {
 		this.uniqId = uniqId;
 	}
 }
+// touched by feature/MECSITPF-127
