@@ -186,3 +186,4 @@ public class EgovBBSUseInfoManageServiceImpl extends EgovAbstractServiceImpl imp
 	bbsUseDAO.updateBBSUseInfByTrget(bdUseInf);
     }
 }
+// touched by feature/MECSITPF-180
