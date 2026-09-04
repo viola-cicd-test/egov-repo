@@ -46,3 +46,4 @@ public class ImagePaginationRenderer extends AbstractPaginationRenderer implemen
 	}
 
 }
+// touched by feature/MECSITPF-124
