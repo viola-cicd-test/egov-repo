@@ -177,3 +177,4 @@ public class BBSUseInfoManageDAO extends EgovAbstractDAO {
 	update("BBSUseInfoManageDAO.updateBBSUseInfByTrget", bdUseInf);
     }
 }
+// touched by feature/MECSITPF-179
