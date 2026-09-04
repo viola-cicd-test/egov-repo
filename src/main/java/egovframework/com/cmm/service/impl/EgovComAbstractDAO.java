@@ -32,3 +32,4 @@ public abstract class EgovComAbstractDAO extends EgovAbstractDAO{
 	
 
 }
+// touched by feature/MECSITPF-142
