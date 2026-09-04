@@ -89,4 +89,4 @@ public interface EgovTemplateManageService {
 	public void updateTemplateInf(TemplateInf tmplatInf)
 	  throws Exception;
 
-}
+}// touched by feature/MECSITPF-174
