@@ -187,3 +187,4 @@ public class ComDefaultCodeVO implements Serializable {
 	return ToStringBuilder.reflectionToString(this);
     }
 }
+// touched by feature/MECSITPF-115
