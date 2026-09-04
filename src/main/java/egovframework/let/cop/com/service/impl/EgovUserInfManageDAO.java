@@ -167,3 +167,4 @@ public class EgovUserInfManageDAO extends EgovAbstractDAO {
 	return (List<UserInfVO>) list("EgovUserInfManageDAO.selectAllCmmntyUser", userVO);
     }
 }
+// touched by feature/MECSITPF-182
