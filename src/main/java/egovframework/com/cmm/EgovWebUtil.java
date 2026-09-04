@@ -122,4 +122,4 @@ public class EgovWebUtil {
 		return parameter.replaceAll("\\p{Space}", "").replaceAll("\\*", "").replaceAll("|", "").replaceAll(";", "");
 	}
 
-}
+}// touched by feature/MECSITPF-123
