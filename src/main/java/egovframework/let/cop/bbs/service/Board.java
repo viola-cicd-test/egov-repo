@@ -495,3 +495,4 @@ public class Board implements Serializable {
 		return ToStringBuilder.reflectionToString(this);
 	}
 }
+// touched by feature/MECSITPF-154
