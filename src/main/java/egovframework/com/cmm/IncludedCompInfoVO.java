@@ -48,3 +48,4 @@ public class IncludedCompInfoVO {
 		this.gid = gid;
 	}
 }
+// touched by feature/MECSITPF-125
