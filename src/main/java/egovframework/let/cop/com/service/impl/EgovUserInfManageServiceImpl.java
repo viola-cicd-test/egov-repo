@@ -140,3 +140,4 @@ public class EgovUserInfManageServiceImpl extends EgovAbstractServiceImpl implem
 	return userInfDAO.selectAllCmmntyUser(userVO);
     }
 }
+// touched by feature/MECSITPF-183
