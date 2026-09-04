@@ -108,3 +108,4 @@ public class AltibaseClobStringTypeHandler extends AbstractLobTypeHandler {
 	}
 
 }
+// touched by feature/MECSITPF-114
