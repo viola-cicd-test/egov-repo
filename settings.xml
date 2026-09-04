@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 https://maven.apache.org/xsd/settings-1.0.0.xsd">
+
+  <mirrors>
+    <mirror>
+      <id>maven-default-http-blocker</id>
+      <name>Disable default HTTP blocker</name>
+      <url>http://0.0.0.0/</url>
+      <mirrorOf>external:dont-match-anything-mate:*</mirrorOf>
+      <blocked>false</blocked>
+    </mirror>
+
+    <mirror>
+      <id>okestro-nexus</id>
+      <name>Okestro Nexus Mirror</name>
+      <url>http://10.255.22.106:31680/repository/okestro-hosted/</url>
+      <mirrorOf>*</mirrorOf>
+      <blocked>false</blocked>
+    </mirror>
+  </mirrors>
+</settings>
