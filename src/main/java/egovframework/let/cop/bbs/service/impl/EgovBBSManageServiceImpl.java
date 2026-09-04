@@ -197,3 +197,4 @@ public class EgovBBSManageServiceImpl extends EgovAbstractServiceImpl implements
 	return bbsMngDAO.getPasswordInf(board);
     }
 }
+// touched by feature/MECSITPF-167
