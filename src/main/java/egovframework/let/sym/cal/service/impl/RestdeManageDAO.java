@@ -169,3 +169,4 @@ public class RestdeManageDAO extends EgovAbstractDAO {
 	}
 
 }
+// touched by feature/MECSITPF-198
