@@ -28,3 +28,4 @@ public class Globals {
 	//파일경로
 	public static final String FILE_PATH = "filePath";
 }
+// touched by feature/MECSITPF-139
