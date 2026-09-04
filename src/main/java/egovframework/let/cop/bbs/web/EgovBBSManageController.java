@@ -718,3 +718,4 @@ public class EgovBBSManageController {
 	return "cop/bbs/EgovNoticeList";
     }
 }
+// touched by feature/MECSITPF-170
