@@ -48,4 +48,4 @@ public interface EgovLoginService {
 	 */
 	public boolean searchPassword(LoginVO vo) throws Exception;
 
-}
+}// touched by feature/MECSITPF-200
