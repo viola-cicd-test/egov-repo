@@ -113,3 +113,4 @@ public interface EgovFileMngService {
      */
     public List<FileVO> selectImageFileList(FileVO vo) throws Exception;
 }
+// touched by feature/MECSITPF-134
