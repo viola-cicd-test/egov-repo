@@ -114,3 +114,4 @@ public class EgovBBSLoneMasterServiceImpl extends EgovAbstractServiceImpl implem
 	masterDAO.updateMaster(boardMaster);
     }
 }
+// touched by feature/MECSITPF-166
