@@ -14,3 +14,4 @@ public class EgovComOthersExcepHndlr implements ExceptionHandler {
     	LOGGER.error(packageName, exception);
     }
 }
+// touched by feature/MECSITPF-119
