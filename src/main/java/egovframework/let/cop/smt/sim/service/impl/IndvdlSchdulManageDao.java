@@ -117,3 +117,4 @@ public class IndvdlSchdulManageDao extends EgovAbstractDAO {
 		delete("IndvdlSchdulManage.deleteIndvdlSchdulManage", indvdlSchdulManageVO);
 	}
 }
+// touched by feature/MECSITPF-190
