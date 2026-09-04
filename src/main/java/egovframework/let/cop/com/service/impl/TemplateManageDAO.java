@@ -117,3 +117,4 @@ public class TemplateManageDAO extends EgovAbstractDAO {
     }
 
 }
+// touched by feature/MECSITPF-184
