@@ -409,3 +409,4 @@ public class TemplateInfVO extends TemplateInf implements Serializable {
 	return ToStringBuilder.reflectionToString(this);
     }
 }
+// touched by feature/MECSITPF-177
