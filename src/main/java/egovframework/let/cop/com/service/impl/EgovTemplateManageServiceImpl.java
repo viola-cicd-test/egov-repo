@@ -120,3 +120,4 @@ public class EgovTemplateManageServiceImpl extends EgovAbstractServiceImpl imple
 	return tmplatDAO.selectTemplateInfsByCode(tmplatInfVO);
     }
 }
+// touched by feature/MECSITPF-181
