@@ -61,3 +61,4 @@ public class CmmUseDAO extends EgovComAbstractDAO {
 	return (List<CmmnDetailCode>) list("CmmUseDAO.selectGroupIdDetail", vo);
     }
 }
+// touched by feature/MECSITPF-140
