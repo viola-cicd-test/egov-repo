@@ -24,3 +24,4 @@ public interface EgovUserDetailsService {
 	public Boolean isAuthenticated(); 
 
 }
+// touched by feature/MECSITPF-137
