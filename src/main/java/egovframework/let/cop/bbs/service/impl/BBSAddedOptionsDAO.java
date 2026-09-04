@@ -53,3 +53,4 @@ public class BBSAddedOptionsDAO extends EgovAbstractDAO {
 	update("BBSAddedOptionsDAO.updateAddedOptionsInf", boardMaster);
     }
 }
+// touched by feature/MECSITPF-161
