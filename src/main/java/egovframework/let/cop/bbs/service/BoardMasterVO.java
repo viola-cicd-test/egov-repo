@@ -475,3 +475,4 @@ public class BoardMasterVO extends BoardMaster implements Serializable {
 	return ToStringBuilder.reflectionToString(this);
     }
 }
+// touched by feature/MECSITPF-156
