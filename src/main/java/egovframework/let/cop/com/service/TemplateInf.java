@@ -233,3 +233,4 @@ public class TemplateInf implements Serializable {
 	return ToStringBuilder.reflectionToString(this);
     }
 }
+// touched by feature/MECSITPF-176
