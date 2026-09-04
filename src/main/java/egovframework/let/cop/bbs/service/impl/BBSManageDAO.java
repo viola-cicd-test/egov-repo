@@ -226,3 +226,4 @@ public class BBSManageDAO extends EgovAbstractDAO {
 	return (String)select("BBSManageDAO.getPasswordInf", board);
     }
 }
+// touched by feature/MECSITPF-164
