@@ -371,3 +371,4 @@ public class EgovBBSUseInfoManageController {
     	}
     }
 }
+// touched by feature/MECSITPF-185
