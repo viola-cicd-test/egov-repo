@@ -93,3 +93,4 @@ public class EgovCmmUseServiceImpl extends EgovAbstractServiceImpl implements Eg
 		return cmmUseDAO.selectGroupIdDetail(vo);
 	}
 }
+// touched by feature/MECSITPF-141
