@@ -20,3 +20,4 @@ public class EgovBindingInitializer implements WebBindingInitializer {
 	}
 
 }
+// touched by feature/MECSITPF-148
