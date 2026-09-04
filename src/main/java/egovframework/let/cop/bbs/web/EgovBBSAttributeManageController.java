@@ -558,3 +558,4 @@ public class EgovBBSAttributeManageController {
 		return "cop/bbs/EgovBdListPortlet";
     }
 }
+// touched by feature/MECSITPF-168
