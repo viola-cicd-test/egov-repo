@@ -71,4 +71,4 @@ public interface EgovBBSLoneMasterService {
 	public void updateMaster(BoardMaster boardMaster)
 	  throws Exception;
 
-}
+}// touched by feature/MECSITPF-159
