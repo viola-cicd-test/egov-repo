@@ -499,3 +499,4 @@ public class IndvdlSchdulManageVO implements Serializable {
 	
 	
 }
+// touched by feature/MECSITPF-188
