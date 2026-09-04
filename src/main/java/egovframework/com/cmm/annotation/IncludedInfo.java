@@ -31,3 +31,4 @@ public @interface IncludedInfo {
 	int order() default 0;			// 자동 생성되는 메뉴 목록에 표시되는 순서
 	int gid() default 0;			// 컴포넌트의 Group ID(대분류 구분)
 }
+// touched by feature/MECSITPF-128
