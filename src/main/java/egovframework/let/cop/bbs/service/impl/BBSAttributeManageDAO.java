@@ -161,3 +161,4 @@ public class BBSAttributeManageDAO extends EgovAbstractDAO {
 	return (Integer)select("BBSAttributeManageDAO.selectNotUsedBdMstrListCnt", vo);
     }
 }
+// touched by feature/MECSITPF-162
