@@ -85,3 +85,4 @@ public class BBSLoneMasterDAO extends EgovAbstractDAO {
 	update("BBSLoneMasterDAO.updateMaster", boardMaster);
     }
 }
+// touched by feature/MECSITPF-163
