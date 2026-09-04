@@ -56,4 +56,4 @@ public class EgovMainContentsVO implements Serializable {
 	public String getWorkItemURL(){
 		return workItemURL;
 	}
-}
+}// touched by feature/MECSITPF-192
