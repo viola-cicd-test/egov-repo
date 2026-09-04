@@ -98,4 +98,4 @@ public interface EgovBBSManageService {
 	public void updateBoardArticle(Board Board)
 	  throws Exception;
 
-}
+}// touched by feature/MECSITPF-160
