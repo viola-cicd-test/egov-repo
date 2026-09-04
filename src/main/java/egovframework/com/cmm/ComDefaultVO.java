@@ -165,3 +165,4 @@ public class ComDefaultVO implements Serializable {
 		this.searchKeywordTo = searchKeywordTo;
 	}
 }
+// touched by feature/MECSITPF-116
