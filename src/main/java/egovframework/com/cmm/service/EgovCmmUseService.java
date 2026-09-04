@@ -62,3 +62,4 @@ public interface EgovCmmUseService {
      */
     public List<CmmnDetailCode> selectGroupIdDetail(ComDefaultCodeVO vo) throws Exception;
 }
+// touched by feature/MECSITPF-133
