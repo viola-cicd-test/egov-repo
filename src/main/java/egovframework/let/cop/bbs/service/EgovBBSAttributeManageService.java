@@ -123,4 +123,4 @@ public interface EgovBBSAttributeManageService {
 	public void validateTemplate(BoardMasterVO searchVO)
 	  throws Exception;
 
-}
+}// touched by feature/MECSITPF-158
