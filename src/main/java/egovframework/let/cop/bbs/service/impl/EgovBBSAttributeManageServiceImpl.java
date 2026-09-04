@@ -290,3 +290,4 @@ public class EgovBBSAttributeManageServiceImpl extends EgovAbstractServiceImpl i
 	return map;
     }
 }
+// touched by feature/MECSITPF-165
