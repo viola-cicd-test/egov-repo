@@ -605,4 +605,4 @@ public class BoardVO extends Board implements Serializable {
     public String toString() {
     	return ToStringBuilder.reflectionToString(this);
     }
-}
+}// touched by feature/MECSITPF-157
