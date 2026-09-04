@@ -561,3 +561,4 @@ public class BoardUseInfVO extends BoardUseInf implements Serializable {
 	return ToStringBuilder.reflectionToString(this);
     }
 }
+// touched by feature/MECSITPF-172
