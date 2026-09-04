@@ -535,4 +535,4 @@ public class BoardMaster implements Serializable {
     public String toString() {
 	return ToStringBuilder.reflectionToString(this);
     }
-}
+}// touched by feature/MECSITPF-155
