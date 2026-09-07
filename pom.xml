@@ -27,16 +27,16 @@
 	<pluginRepositories>
         <pluginRepository>
             <id>central</id>
-            <name>Nexus Central Repository</name>
-            <url>http://10.255.22.106:30480/repository/okestro-hosted</url>
+            <name>egov-thirdparty</name>
+            <url>http://nexus.cicd-test.local/repository/egov-thirdparty</url>
         </pluginRepository>
     </pluginRepositories>
 
 	<repositories>
         <repository>
             <id>central</id>
-            <name>okestro-repo</name>
-            <url>http://10.255.22.106:30480/repository/okestro-hosted/</url>
+            <name>egov-thirdparty</name>
+            <url>http://nexus.cicd-test.local/repository/egov-thirdparty/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
