@@ -28,7 +28,7 @@
         <pluginRepository>
             <id>central</id>
             <name>Nexus Central Repository</name>
-            <url>http://10.255.22.106:30480/repository/okestro-hosted</url>
+            <url>http://nexus.viola.middleware.okestro.cloud:32080/repository/okestro-hosted</url>
         </pluginRepository>
     </pluginRepositories>
 
@@ -36,7 +36,7 @@
         <repository>
             <id>central</id>
             <name>okestro-repo</name>
-            <url>http://10.255.22.106:30480/repository/okestro-hosted/</url>
+            <url>http://nexus.viola.middleware.okestro.cloud:32080/repository/okestro-hosted/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
